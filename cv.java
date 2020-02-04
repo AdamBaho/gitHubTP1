@@ -1,7 +1,7 @@
 public class cv {
 	
 	public static void main() {
-		System.out.println("Bienvenue chez Barette! \n");
+		System.out.print("Bienvenue chez Barette! \n");
 		
 		affiche();
 	}
