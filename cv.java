@@ -16,7 +16,7 @@ public class cv {
 				
 			
 		String cv = "\n" + nom + prenom + Formation + Experience + Competences + Attentes;
-		
+
 		return cv;
 	}
 	
