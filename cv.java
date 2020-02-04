@@ -11,7 +11,7 @@ public class cv {
 				prenom = "Adam ", 
 				Formation = "Informaticien ", 
 				Experience = "Aucune ", 
-				Competences = "Diverses ", 
+				Competences = "Diverses ",
 				Attentes = "Passé le cours à 100% ";
 				
 			
